@@ -33,7 +33,7 @@ if (opexCmd == null)
 if (opexCmd == "chapter")
 {
     const string url = "https://onepieceex.net/mangas/";
-    GotoOpex(url, "Let read some One Piece:wq");
+    GotoOpex(url, "Let read some One Piece");
     opexCmd = null;
     goto Start;
 }

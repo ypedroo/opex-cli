@@ -7,7 +7,7 @@
         <Nullable>enable</Nullable>
         <PackAsTool>true</PackAsTool>
         <ToolCommand>opex</ToolCommand>
-        <PackageOutputPath>.nupkg</PackageOutputPath>
+        <PackageOutputPath>./nupkg</PackageOutputPath>
     </PropertyGroup>
 
 </Project>
